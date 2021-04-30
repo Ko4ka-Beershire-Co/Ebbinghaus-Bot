@@ -7,7 +7,7 @@ from telebot import apihelper
 
 apihelper.proxy = {'https': 'socks5h://739407857:6EK4KkOP@grsst.s5.opennetwork.cc:999'}
 
-TOKEN = '1061314536:AAGn8AxOXWaxTDa55yQS5ACmoKqYszkakk4'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
